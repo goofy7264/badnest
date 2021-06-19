@@ -2,10 +2,11 @@
   "version": "1.0.0",
   "domain": "badnest",
   "name": "Bad Nest (A hack around the Nest component to pull from their internal api)",
-  "documentation": "https://github.com/mattsch/badnest",
-  "issue_tracker": "https://github.com/mattsch/badnest/issues",
+  "documentation": "https://github.com/goofy7264/badnest",
+  "issue_tracker": "https://github.com/goofy7264/badnest/issues",
   "dependencies": [],
   "codeowners": [
+    "@goofy7264",
     "@mattsch",
     "@USA-RedDragon"
   ],
